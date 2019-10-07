@@ -40,5 +40,5 @@
 - [viewless](https://github.com/viewless)
 - [tonzsm](https://github.com/tonzsm)
 - [Vlad Zaporozhskyi](https://github.com/thezapovlad)
-
+- [Rahul Mistry](https://github.com/rahulmistry751)
 <!-- Please follow ALPHABETICAL ORDER -->
